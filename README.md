@@ -8,3 +8,14 @@
 * Visit web application -> [Weather360°](https://react-weather-app-ten-nu.vercel.app/)<br><br>
 
 ## Home Page
+### Current Weather Data
+<img src="https://github.com/prankush247/React-Weather-App/blob/main/Hp_1_LM.png"/>
+<img src="https://github.com/prankush247/React-Weather-App/blob/main/Hp_1_DM.png"/>
+
+### 5 day weather forecast 
+<img src="https://github.com/prankush247/React-Weather-App/blob/main/Hp_2_LM.png"/>
+<img src="https://github.com/prankush247/React-Weather-App/blob/main/Hp_2_DM.png"/>
+
+## News Page
+<img src="https://github.com/prankush247/React-Weather-App/blob/main/news_LM.png"/>
+<img src="https://github.com/prankush247/React-Weather-App/blob/main/news_DM.png"/>
